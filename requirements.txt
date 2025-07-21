@@ -1,0 +1,16 @@
+# Gerenciamento de interface e automação web
+selenium
+webdriver-manager
+
+# Geração de relatórios e documentos
+reportlab
+pandas
+openpyxl
+xlrd
+
+# Comunicação e APIs
+google-generativeai
+requests
+
+# Utilitários de sistema
+pyperclip
