@@ -19,8 +19,10 @@ Key Manager é uma aplicação desenvolvida para organizar, armazenar e gerencia
 📦 Exportação de dados em JSON e Excel
 
 🛠 Tecnologias
-Python + PyQt6 (ou Tkinter, dependendo da versão)
+Python + Tkinter
 
 SQLite para armazenamento local
 
 ReportLab para geração de PDF
+
+<img width="1919" height="1033" alt="image" src="https://github.com/user-attachments/assets/93a82e66-24d8-404e-9f8a-10687ac50a04" />
