@@ -97,10 +97,4 @@ Sinta-se à vontade para abrir *issues*, enviar *pull requests* ou sugerir novas
 
 ---
 
-## 📄 Licença
-
-Distribuído sob a licença MIT. Veja `LICENSE` para mais detalhes.
-
----
-
 Desenvolvido por **Vinícius Leão**
